@@ -237,7 +237,7 @@ type qfp-daemon_data_file, file_type, data_file_type;
 type persist_qti_fp_file, file_type, vendor_persist_type;
 
 # imshelper_app file types
-type imshelper_app_data_file, file_type, data_file_type;
+type imshelper_app_data_file, file_type, app_data_file_type, data_file_type;
 
 # RIDL data files
 type RIDL_data_file, file_type, data_file_type;
