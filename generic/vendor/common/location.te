@@ -104,4 +104,5 @@ binder_call(vendor_location, vendor_qtidataservices_app)
 crash_dump_fallback(vendor_location)
 
 # xtra-daemon control
+type xtra_control_prop, file_type;
 get_prop(vendor_location, xtra_control_prop)
