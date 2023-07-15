@@ -28,4 +28,3 @@
 binder_call(hal_capabilityconfigstore_qti_client, hal_capabilityconfigstore_qti_server)
 binder_call(hal_capabilityconfigstore_qti_server, hal_capabilityconfigstore_qti_client)
 
-hal_attribute_hwservice(hal_capabilityconfigstore_qti, hal_capabilityconfigstore_qti_hwservice)
