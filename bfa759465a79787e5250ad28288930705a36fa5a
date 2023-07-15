@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6cfd7973_fd881f85",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000588
+      },
+      "writtenOn": "2023-07-15T05:26:35Z",
+      "side": 1,
+      "message": "sdm845 using vndr-legacy-um, not getting error, should be fixed in device tree",
+      "revId": "bfa759465a79787e5250ad28288930705a36fa5a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
