@@ -82,6 +82,7 @@ allow sensors device_latency:chr_file w_file_perms;
 userdebug_or_eng(`
   domain_auto_trans(shell, sensors_exec, sensors)
   diag_use(sensors)
+  get_prop(sensors, sensors_dbg_prop)
 
   # For starting diag_mdlog
   allow sensors vendor_shell_exec:file execute_no_trans;
